@@ -1,0 +1,8 @@
+GetEventsBySport Short-Track-Speed-Skating
+GetWinnersAndCountriesBySportAndEvent Ski-Jumping Womens-Normal-Hill-Individual
+GetGoldMedalistAndCountryBySportAndEvent Snowboard Mens-Snowboard-Cross
+GetAthleteWithMostMedals 
+GetAthleteWithMostGoldMedals
+GetCountryWithMostMedals
+GetCountryWithMostGoldMedals
+GetSportAndEventByAthlete Johannes-Hoesflot-Klaebo

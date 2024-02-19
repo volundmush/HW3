@@ -1,0 +1,8 @@
+GetEventsBySport Short-Track-Speed-Skating Mens-1km Mens-1.5km Mens-500m Womens-1km Womens-1.5km Womens-500m
+GetWinnersAndCountriesBySportAndEvent Ski-Jumping Womens-Normal-Hill-Individual Ursa-Bogataj:Slovenia Katharina-Althaus:Germany Nika-Kriznar:Slovenia
+GetGoldMedalistAndCountryBySportAndEvent Snowboard Mens-Snowboard-Cross Alessandro-Haemmerle:Austria
+GetAthleteWithMostMedals 3 Johannes-Thingnes-Boe:Norway Marte-Olsbu-Roeiseland:Norway Suzanne-Schulting:Netherlands
+GetAthleteWithMostGoldMedals 2 Johannes-Thingnes-Boe:Norway Therese-Johaug:Norway
+GetCountryWithMostMedals 15 Norway
+GetCountryWithMostGoldMedals 7 Norway
+GetSportAndEventByAthlete Johannes-Hoesflot-Klaebo Cross-Country-Skiing Mens-15km-Classic Mens-Sprint-Free

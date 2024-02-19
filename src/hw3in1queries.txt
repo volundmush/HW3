@@ -1,0 +1,6 @@
+GetEventsBySport Free-Style-Skiing 
+GetWinnersAndCountriesBySportAndEvent Biathlon Mens-10km-Sprint
+GetGoldMedalistAndCountryBySportAndEvent Alpine-Skiing Womens-Downhill
+GetEventsBySport Biathlon 
+GetWinnersAndCountriesBySportAndEvent Free-Style-Skiing Womens-Freeski-Halfpipe
+GetGoldMedalistAndCountryBySportAndEvent Biathlon Mens-15km-Mass-Start

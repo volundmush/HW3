@@ -1,0 +1,6 @@
+GetEventsBySport Free-Style-Skiing Mens-Aerials Mens-Freeski-Big-Air Womens-Freeski-Halfpipe
+GetWinnersAndCountriesBySportAndEvent Biathlon Mens-10km-Sprint Johannes-Thingnes-Boe:Norway Quentin-Fillon-Maillet:France Tarjei-Boe:Norway 
+GetGoldMedalistAndCountryBySportAndEvent Alpine-Skiing Womens-Downhill Corinne-Suter:Switzerland
+GetEventsBySport Biathlon Mens-20km-Individual Mens-10km-Sprint Mens-15km-Mass-Start
+GetWinnersAndCountriesBySportAndEvent Free-Style-Skiing Womens-Freeski-Halfpipe Ailing-Eileen-Gu:China Cassie-Sharpe:Canada Rachel-Karker:Canada
+GetGoldMedalistAndCountryBySportAndEvent Biathlon Mens-15km-Mass-Start Johannes-Thingnes-Boe:Norway

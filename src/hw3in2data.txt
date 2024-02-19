@@ -1,0 +1,38 @@
+Winter-Olympics-2022 Figure-Skating Biathlon Ski-Jumping Snowboard Cross-Country-Skiing Short-Track-Speed-Skating
+Biathlon Mens-20km-Individual Mens-10km-Sprint Womens-7.5km-Sprint Womens-15km-Individual Mens-15km-Mass-Start Womens-12.5km-Mass-Start
+Cross-Country-Skiing Mens-15+15km-Skiathlon Womens-10km-Classic Mens-15km-Classic Mens-Sprint-Free Womens-7.5+7.5km-Skiathlon Womens-Sprint-Free
+Figure-Skating Ice-Dance Women-Single-Skating Pair-Skating Men-Single-Skating
+Short-Track-Speed-Skating Mens-1km Womens-1km Womens-1.5km Mens-1.5km Mens-500m Womens-500m
+Ski-Jumping Mens-Long-Hill-Individual Womens-Normal-Hill-Individual Mens-Normal-Hill-Individual
+Snowboard Womens-Snowboard-Big-Air Womens-Snowboard-Cross Mens-Snowboard-Big-Air Mens-Snowboard-Cross Mens-Snowboard-Slopestyle Womens-Snowboard-Slopestyle
+Mens-20km-Individual Quentin-Fillon-Maillet:France Anton-Smolski:Belarus Johannes-Thingnes-Boe:Norway 
+Women-Single-Skating Anna-Shcherbakova:Russia Alexandra-Trusova:Russia Kaori-Sakamoto:Japan
+Mens-1km Ziwei-Ren:China Wenlong-Li:China Shaoang-Liu:Hungary
+Womens-12.5km-Mass-Start Justine-Braisaz:France Tiril-Eckhoff:Norway Marte-Olsbu-Roeiseland:Norway
+Mens-15+15km-Skiathlon Alexander-Bolshunov:Russia Denis-Spitsov:Russia Iivo-Niskanen:Finland
+Mens-15km-Classic Iivo-Niskanen:Finland Alexander-Bolshunov:Russia Johannes-Hoesflot-Klaebo:Norway
+Mens-Sprint-Free Johannes-Hoesflot-Klaebo:Norway Federico-Pellegrino:Italy Alexander-Terentev:Russia
+Womens-7.5+7.5km-Skiathlon Therese-Johaug:Norway Natalia-Nepryaeva:Russia Teresa-Stadlober:Austria
+Pair-Skating Wenjing-Sui_Cong-Han:China Evgenia-Tarasova_Vladimir-Morozov:Russia Aleksandr-Galliamov_Anastasia-Mishina:Russia
+Mens-1.5km Daeheon-Hwang:Korea Steven-Dubois:Canada Semen-Elistratov:Russia
+Mens-500m Shaoang-Liu:Hungary Konstantin-Ivliev:Russia Steven-Dubois:Canada
+Womens-1km Suzanne-Schulting:Netherlands Minjeong-Choi:Korea Hanne-Desmet:Belgium
+Womens-1.5km Minjeong-Choi:Korea Arianna-Fontana:Italy Suzanne-Schulting:Netherlands
+Womens-500m Arianna-Fontana:Italy Suzanne-Schulting:Netherlands Kim-Boutin:Canada
+Mens-Long-Hill-Individual Marius-Lindvik:Norway Ryoyu-Kobayashi:Japan Karl-Geiger:Germany
+Mens-Snowboard-Slopestyle Max-Parrot:Canada Yiming-Su:China Mark-Mcmorris:Canada
+Womens-Normal-Hill-Individual Ursa-Bogataj:Slovenia Katharina-Althaus:Germany Nika-Kriznar:Slovenia
+Mens-10km-Sprint Johannes-Thingnes-Boe:Norway Quentin-Fillon-Maillet:France Tarjei-Boe:Norway 
+Mens-15km-Mass-Start Johannes-Thingnes-Boe:Norway Martin-Ponsiluoma:Sweden Vetle-Sjaastad-Christiansen:Norway 
+Womens-15km-Individual Denise-Herrmann:Germany Anais-Chevalier:France Marte-Olsbu-Roeiseland:Norway
+Womens-7.5km-Sprint Marte-Olsbu-Roeiseland:Norway Elvira-Oeberg:Sweden Dorothea-Wierer:Italy
+Mens-Normal-Hill-Individual Ryoyu-Kobayashi:Japan Manuel-Fettner:Austria Dawid-Kubacki:Poland
+Mens-Snowboard-Big-Air Yiming-Su:China Mons-Roisland:Norway Max-Parrot:Canada
+Mens-Snowboard-Cross Alessandro-Haemmerle:Austria Eliot-Grondin:Canada Omar-Visintin:Italy
+Womens-10km-Classic Therese-Johaug:Norway Kerttu-Niskanen:Finland Krista-Parmakoski:Finland
+Womens-Sprint-Free Jonna-Sundling:Sweden Maja-Dahlqvist:Sweden Jessica-Diggins:USA
+Ice-Dance Guillame-Cizeron_Gabriella-Papadakis:France Victoria-Sinitsina_Nikita-Katasalapov:Russia Madison-Hubbell_Zachary-Donohue:USA
+Men-Single-Skating Nathan-Chen:USA Yuma-Kagiyama:Japan Shoma-Uno:Japan
+Womens-Snowboard-Big-Air Anna-Gasser:Austria Zoi-Sadowski-Synnot:New-Zealand Kokomo-Murase:Japan
+Womens-Snowboard-Cross Lindsey-Jacobellis:USA Chloe-Trespeuch:France Meryeta-Odine:Canada
+Womens-Snowboard-Slopestyle Zoi-Sadowski-Synnot:New-Zealand Julia-Marino:USA Tess-Coady:Australia
