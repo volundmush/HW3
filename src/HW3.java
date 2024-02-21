@@ -281,29 +281,30 @@ public class HW3
         String[] parts = line.split(" " );
 
         LinkedList<String> results = new LinkedList<>();
-        results.addFirst(parts[0]);
+        String cmd = parts[0].trim();
+        results.addFirst(cmd);
         String out = "";
 
         // First part is the command...
         // I would love to use switch-case here but the java IDE in use doesn't like it.
-        if(parts[0].equals("GetEventsBySport")) {
+        if(cmd.equals("GetEventsBySport")) {
             out = handleGetEventsBySport(parts[1]);
-        } else if(parts[0].equals("GetWinnersAndCountriesBySportAndEvent")) {
+        } else if(cmd.equals("GetWinnersAndCountriesBySportAndEvent")) {
             out = handleGetWinnersAndCountriesBySportAndEvent(parts[1], parts[2]);
-        } else if(parts[0].equals("GetAthleteWithMostMedals")) {
+        } else if(cmd.equals("GetAthleteWithMostMedals")) {
             out = handleGetAthleteWithMostMedals();
-        } else if(parts[0].equals("GetAthleteWithMostGoldMetals")) {
+        } else if(cmd.equals("GetAthleteWithMostGoldMedals")) {
             out = handleGetAthleteWithMostGoldMetals();
-        } else if(parts[0].equals("GetCountryWithMostMedals")) {
+        } else if(cmd.equals("GetCountryWithMostMedals")) {
             out = handleGetCountryWithMostMedals();
-        } else if(parts[0].equals("GetCountryWithMostGoldMedals")) {
+        } else if(cmd.equals("GetCountryWithMostGoldMedals")) {
             out = handleGetCountryWithMostGoldMedals();
-        } else if(parts[0].equals("GetSportAndEventByAthlete")) {
+        } else if(cmd.equals("GetSportAndEventByAthlete")) {
             out = handleGetSportAndEventByAthlete(parts[1]);
-        } else if(parts[0].equals("GetGoldMedalistAndCountryBySportAndEvent")) {
+        } else if(cmd.equals("GetGoldMedalistAndCountryBySportAndEvent")) {
             out = handleGetGoldMedalistAndCountryBySportAndEvent(parts[1], parts[2]);
         } else {
-            System.out.println("Invalid command: " + parts[0]);
+            System.out.println("Invalid command: " + cmd);
             return;
         }
 
